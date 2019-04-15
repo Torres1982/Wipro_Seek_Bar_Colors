@@ -1,6 +1,9 @@
 # Wipro_Seek_Bar_Colors
 
-### Technologies used: Android Studio, Kotlin, XML
+### Technologies used:
+1. Android Studio
+2. Kotlin
+3. XML
 
 ### Assignment Description:
 Develop an application to change the background color of a text view in the app using Seek bars.
